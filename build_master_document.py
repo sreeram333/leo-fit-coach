@@ -57,7 +57,10 @@ DAYS_DATA = [
                 "setup": "Adjust seat height so the machine handles align level with your upper chest / clavicle. Plant feet flat with heels driven into floor.",
                 "form": "Pinch shoulder blades against back pad. Press diagonally upward and forward, driving biceps toward collarbones. Squeeze for 1s at top without rolling shoulders.",
                 "mistakes": "Setting seat too low (turns into a shoulder press) or flaring elbows at 90° (impinges rotator cuffs). Keep elbows tucked at 45°–60°.",
-                "progression": "When you hit 10, 10, 10 reps with zero shoulder compensation, increase machine weight by +2.5 kg next week."
+                "progression": "When you hit 10, 10, 10 reps with zero shoulder compensation, increase machine weight by +2.5 kg next week.",
+                "video_url": "https://www.youtube.com/watch?v=LiDArz1R2NU",
+                "video_creator": "FIT.nl",
+                "video_title": "Incline Machine Chest Press | Proper Form Tutorial for Upper Chest"
             },
             {
                 "num": 2,
@@ -70,7 +73,10 @@ DAYS_DATA = [
                 "setup": "Lie on bench with eyes directly under the bar. Retract shoulder blades, slight arch in lower back, feet planted firmly for leg drive. Grip slightly wider than shoulders.",
                 "form": "Unrack bar and pull shoulders down into back pockets. Lower bar under control to lower sternum/nipple line with forearms vertical. Press up explosively in slight arc.",
                 "mistakes": "Bouncing bar off chest, flaring elbows perpendicular to torso, or lifting glutes off bench. Keep heels grounded and descent controlled.",
-                "progression": "Hit 10, 10, 10 reps -> add +1.25 kg to +2.5 kg next week. If lower reps (8, 7, 6), stay at this weight and aim for +1 rep."
+                "progression": "Hit 10, 10, 10 reps -> add +1.25 kg to +2.5 kg next week. If lower reps (8, 7, 6), stay at this weight and aim for +1 rep.",
+                "video_url": "https://www.youtube.com/watch?v=vcBig73ojpE",
+                "video_creator": "Jeff Nippard",
+                "video_title": "How To Get A Huge Bench Press with Perfect Technique"
             },
             {
                 "num": 3,
@@ -83,7 +89,10 @@ DAYS_DATA = [
                 "setup": "Sit on edge of a flat bench with chest tilted forward ~15°. Seated position completely eliminates hip swinging and leg cheating.",
                 "form": "Raise dumbbells outward in the scapular plane (30° forward from torso line). Lead with elbows and keep pinkies slightly elevated. 2s slow descent.",
                 "mistakes": "Using heavy dumbbells and shrugging with upper traps, or raising arms straight out sideways/behind torso. Stay in the scapular plane!",
-                "progression": "Stay at current weight until hitting 15, 15, 15, 15 clean reps, then increase dumbbell weight by +1 kg per hand."
+                "progression": "Stay at current weight until hitting 15, 15, 15, 15 clean reps, then increase dumbbell weight by +1 kg per hand.",
+                "video_url": "https://www.youtube.com/watch?v=4hTUCDUQaNA",
+                "video_creator": "Renaissance Periodization",
+                "video_title": "The Only Dumbbell Lateral Raise Guide You Need (For Side Delt Growth)"
             },
             {
                 "num": 4,
@@ -96,7 +105,10 @@ DAYS_DATA = [
                 "setup": "Sit on upright bench (75°–85° back angle). Grip barbell just outside shoulder width with palms facing forward.",
                 "form": "Inhale deeply into diaphragm to brace core. Lower bar with control to chin/collarbone level. Press bar vertically overhead, moving head through window at top lockout.",
                 "mistakes": "Excessive lower back hyperextension (compensating for tight lats/shoulders) or short-changing depth by stopping above forehead level.",
-                "progression": "Hit 10, 10, 10 reps -> increase bar weight by +1.25 kg to +2.5 kg."
+                "progression": "Hit 10, 10, 10 reps -> increase bar weight by +1.25 kg to +2.5 kg.",
+                "video_url": "https://www.youtube.com/watch?v=NAtsHyowOXg",
+                "video_creator": "Colossus Fitness",
+                "video_title": "How to PROPERLY Overhead Press | Proper OHP Form for Muscle Gain"
             },
             {
                 "num": 5,
@@ -109,7 +121,10 @@ DAYS_DATA = [
                 "setup": "Sit upright with back supported. Hold a single dumbbell overhead with both hands in diamond grip under top plate.",
                 "form": "Keep upper arms vertical and pinned near ears. Lower dumbbell behind neck until deep triceps stretch is achieved. Press back up to lockout.",
                 "mistakes": "Flaring elbows wide sideways or stopping before deep stretch. Keep upper arms pointing straight up throughout.",
-                "progression": "Hit 12, 12, 12 reps -> bump dumbbell weight up by +2 kg."
+                "progression": "Hit 12, 12, 12 reps -> bump dumbbell weight up by +2 kg.",
+                "video_url": "https://www.youtube.com/watch?v=fYqswDVbJDg",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "HOW TO: Overhead Triceps Extension (BEST EXERCISE FOR HUGE TRICEPS) || PERFECT FORM"
             },
             {
                 "num": 6,
@@ -122,7 +137,10 @@ DAYS_DATA = [
                 "setup": "High cable pulley attachment. Slight forward lean at hips, feet shoulder-width, knees unlocked.",
                 "form": "Pin elbows against ribcage like door hinges. Push bar/rope straight down until arms are fully extended. Squeeze triceps hard for 1 full second at bottom.",
                 "mistakes": "Letting elbows drift forward on ascent (turns into shoulder movement) or rocking torso for momentum. Pin elbows tight!",
-                "progression": "Hit 15, 15, 15 reps -> drop pin 1 plate (+2.5 kg)."
+                "progression": "Hit 15, 15, 15 reps -> drop pin 1 plate (+2.5 kg).",
+                "video_url": "https://www.youtube.com/watch?v=_w-HpW70nSQ",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "HOW TO: Cable Triceps Pushdown || 3 Golden Rules (FOR GROWTH)"
             }
         ]
     },
@@ -148,7 +166,10 @@ DAYS_DATA = [
                 "setup": "Rest bar across upper traps. Place feet 4 inches FORWARD from bar line, shoulder-width apart, toes turned 15° out.",
                 "form": "Keep torso completely vertical. Sit down by flexing knees until thighs hit parallel to floor. Drive through midfoot and heels to stand.",
                 "mistakes": "Placing feet directly under the bar (forces hip hinge and lower back strain). Feet MUST be 4 inches forward for pure quad drive!",
-                "progression": "Hit 8, 8, 8 reps -> increase barbell weight by +2.5 kg next week."
+                "progression": "Hit 8, 8, 8 reps -> increase barbell weight by +2.5 kg next week.",
+                "video_url": "https://www.youtube.com/watch?v=AHnX-aimA4E",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "How To: Smith Machine- Squat (Feet Forward Quad Isolation)"
             },
             {
                 "num": 2,
@@ -161,7 +182,10 @@ DAYS_DATA = [
                 "setup": "Place top of rear foot on bench behind you. Take a comfortable stride forward with front working leg. Torso tilted forward ~20°.",
                 "form": "Hold dumbbells at sides. Drop rear knee straight toward floor until front thigh reaches parallel. Drive through front heel to stand.",
                 "mistakes": "Lifting front heel off floor, or hyper-arching lower back. Keep front foot planted flat and core braced.",
-                "progression": "Hit 10 reps on both legs across all 3 sets -> increase dumbbells by +1 kg per hand."
+                "progression": "Hit 10 reps on both legs across all 3 sets -> increase dumbbells by +1 kg per hand.",
+                "video_url": "https://www.youtube.com/watch?v=hPlKPjohFS0",
+                "video_creator": "Squat University",
+                "video_title": "The PERFECT Bulgarian Split Squat (Avoid These Errors!)"
             },
             {
                 "num": 3,
@@ -174,7 +198,10 @@ DAYS_DATA = [
                 "setup": "Sit deep into carriage seat with hips pressed down. Place feet LOW on the plate platform and NARROW (approx. 6 inches apart).",
                 "form": "Release catches. Lower sled smoothly until knees hit 90° flexion. Drive through balls and mid-foot back up, stopping just before knee lockout.",
                 "mistakes": "Allowing hips/glutes to tuck and lift off the seat pad (causes lumbar rounding). Keep glutes pinned to pad throughout.",
-                "progression": "Hit 12, 12, 12 reps -> add +5 kg to +10 kg to the sled."
+                "progression": "Hit 12, 12, 12 reps -> add +5 kg to +10 kg to the sled.",
+                "video_url": "https://www.youtube.com/watch?v=oujca3_Shgw",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "How To: Leg Press (Cybex - Low & Narrow Quad Sweep)"
             },
             {
                 "num": 4,
@@ -187,7 +214,10 @@ DAYS_DATA = [
                 "setup": "Balls of feet on block or plate edge. Hold dumbbell in one hand, other hand lightly touching rack for stability.",
                 "form": "Lower heels into a deep deficit stretch. HOLD FOR A DEAD 2-SECOND PAUSE at bottom. Explode up onto big toes and hold 1s at top.",
                 "mistakes": "Bouncing quickly using Achilles tendon rebound. The 2-second dead stop at the bottom is mandatory to force muscle recruitment!",
-                "progression": "Hit 15 reps on all 4 sets with dead pauses -> increase dumbbell by +2 kg."
+                "progression": "Hit 15 reps on all 4 sets with dead pauses -> increase dumbbell by +2 kg.",
+                "video_url": "https://www.youtube.com/watch?v=-qsRtp_PbVM",
+                "video_creator": "Jeff Nippard",
+                "video_title": "How To FORCE YOUR CALVES To Grow With Smarter Training Methods (Standing Straight-Knee Pause)"
             },
             {
                 "num": 5,
@@ -200,7 +230,10 @@ DAYS_DATA = [
                 "setup": "Support body on captain's chair apparatus with forearms on pads, back pressed firmly against backrest.",
                 "form": "Keep legs extended (micro-bend if tight). Raise legs to parallel or above. CRUCIAL CUE: At top, curl your pelvis upward toward ribs. 3s slow descent.",
                 "mistakes": "Swinging legs with momentum or only flexing hip flexors without posterior pelvic tuck. Curl the pelvis up!",
-                "progression": "Hit 15 clean reps without swinging -> add 2-second isometric freeze at top of each rep."
+                "progression": "Hit 15 clean reps without swinging -> add 2-second isometric freeze at top of each rep.",
+                "video_url": "https://www.youtube.com/watch?v=2TC-VJ40XwA",
+                "video_creator": "Andrew Coates",
+                "video_title": "Captain's Chair Knee / Leg Raises | Ab Exercise Technique (Pelvic Curl Focus)"
             }
         ]
     },
@@ -226,7 +259,10 @@ DAYS_DATA = [
                 "setup": "Adjust counterbalance pin. Kneel on pad. Take wide overhand grip on outer handles.",
                 "form": "FRONT TO CHEST ONLY. Pull collarbones toward handles by driving elbows down into back pockets. Squeeze lats hard at top, lower to full arm hang.",
                 "mistakes": "Pulling behind neck (damages cervical spine and shoulder joints) or cutting range of motion short. Full stretch at bottom!",
-                "progression": "Hit 10, 10, 10 reps -> REDUCE the counterweight assistance by 1 pin notch."
+                "progression": "Hit 10, 10, 10 reps -> REDUCE the counterweight assistance by 1 pin notch.",
+                "video_url": "https://www.youtube.com/watch?v=yltjwI98GmI",
+                "video_creator": "DrillFit Training",
+                "video_title": "How to Use The Assisted Pull Up Machine (Front Chest to Bar Form)"
             },
             {
                 "num": 2,
@@ -239,7 +275,10 @@ DAYS_DATA = [
                 "setup": "Sit tall on cable row bench with feet on footrests, knees slightly bent. Attach close-grip V-bar handle.",
                 "form": "Sit upright with proud chest. Pull V-bar into navel. Drive elbows back behind torso, pinch shoulder blades together for 1s pause.",
                 "mistakes": "Swinging torso backward and using lower back momentum to heave the weight. Keep torso stationary at 90°.",
-                "progression": "Hit 10, 10, 10 reps -> drop pin 1 plate down."
+                "progression": "Hit 10, 10, 10 reps -> drop pin 1 plate down.",
+                "video_url": "https://www.youtube.com/watch?v=7o2oolbmzeI",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "How To: Seated Cable Low-Row || PERFECT FORM (V-Bar Navel Pull)"
             },
             {
                 "num": 3,
@@ -252,7 +291,10 @@ DAYS_DATA = [
                 "setup": "Sit facing machine pad. Adjust seat so handles are at eye level. Grip handles with neutral or overhand grip.",
                 "form": "Slight soft bend in elbows. Sweep handles outward in a wide expanding semi-circle. Pull with posterior delts until handles align with shoulders.",
                 "mistakes": "Bending arms into a row, or shrugging with upper traps. Lead with back of shoulders in an expansive arc.",
-                "progression": "Hit 15, 15, 15, 15 reps -> increase resistance by +2.5 kg."
+                "progression": "Hit 15, 15, 15, 15 reps -> increase resistance by +2.5 kg.",
+                "video_url": "https://www.youtube.com/watch?v=6yMdhi2DVao",
+                "video_creator": "Mind Pump TV",
+                "video_title": "How To Properly Use The Rear Delt Fly Machine (+ Traps Protraction Cue)"
             },
             {
                 "num": 4,
@@ -265,7 +307,10 @@ DAYS_DATA = [
                 "setup": "Lie perpendicularly across a flat bench with only upper back/shoulders supported. Hips slightly lower than bench.",
                 "form": "Hold single dumbbell with both hands cupping upper plate. With slight elbow bend, lower dumbbell in an arc over head until deep lat stretch is felt. Pull back over face to collarbones.",
                 "mistakes": "Bending elbows excessively (turns into tricep extension) or thrusting hips up. Keep hips steady to maximize lat elongation.",
-                "progression": "Hit 15, 15, 15 reps -> increase dumbbell weight by +2 kg."
+                "progression": "Hit 15, 15, 15 reps -> increase dumbbell weight by +2 kg.",
+                "video_url": "https://www.youtube.com/watch?v=UOjSq3uidqY",
+                "video_creator": "mountaindog1 (John Meadows)",
+                "video_title": "Exercise Index: Dumbbell Lat Pullover | GET A WIDE BACK"
             },
             {
                 "num": 5,
@@ -278,7 +323,10 @@ DAYS_DATA = [
                 "setup": "Sit tall on upright bench with dumbbells held in neutral grip (palms facing each other like hammers).",
                 "form": "Pin elbows to sides. Curl dumbbells upward without twisting wrists. Hold peak squeeze for 1 second, 2s eccentric descent.",
                 "mistakes": "Swinging shoulders forward to gain momentum, or separating elbows from ribcage.",
-                "progression": "Hit 12, 12, 12 reps -> upgrade to next dumbbell weight (+1 kg/hand)."
+                "progression": "Hit 12, 12, 12 reps -> upgrade to next dumbbell weight (+1 kg/hand).",
+                "video_url": "https://www.youtube.com/watch?v=8XLxfXROrTo",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "HOW TO: Dumbbell Hammer Curl (BICEPS PEAK BUILDER!) || PERFECT FORM"
             },
             {
                 "num": 6,
@@ -291,7 +339,10 @@ DAYS_DATA = [
                 "setup": "Sit at preacher bench with armpits snug against top pad. Triceps rested flat against angled cushion.",
                 "form": "Grip EZ-bar or dumbbells underhand. Curl weight upward toward chin. Lower weight under control, STOPPING 1 INCH BEFORE FULL LOCKOUT to safeguard bicep tendon.",
                 "mistakes": "Hyperextending and locking out elbows forcefully under heavy load (injury risk). Keep tension on muscle bellies!",
-                "progression": "Hit 12, 12, 12 reps -> add +1.25 kg to +2.5 kg."
+                "progression": "Hit 12, 12, 12 reps -> add +1.25 kg to +2.5 kg.",
+                "video_url": "https://www.youtube.com/watch?v=nbcgEmZ0Be4",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "3 Reasons You're Wasting Your Time With Preacher Curls! (3 FIXES!)"
             }
         ]
     },
@@ -317,7 +368,10 @@ DAYS_DATA = [
                 "setup": "Stand tall holding barbell with shoulder-width overhand grip. Feet hip-width apart, knees unlocked in soft micro-bend.",
                 "form": "Initiate by pushing hips directly backward toward wall behind you. Shave bar down shins until mid-shin and hamstrings are at maximum stretch. Drive hips forward through heels.",
                 "mistakes": "Rounding lower spine or turning into a knee-dominant squat. Spine must stay locked like a tabletop; movement comes entirely from hip hinge!",
-                "progression": "Hit 10, 10, 10 reps -> add +2.5 kg to barbell."
+                "progression": "Hit 10, 10, 10 reps -> add +2.5 kg to barbell.",
+                "video_url": "https://www.youtube.com/watch?v=3VXmecChYYM",
+                "video_creator": "Max Euceda",
+                "video_title": "How to do the ROMANIAN DEADLIFT! | 2 Minute Form Tutorial"
             },
             {
                 "num": 2,
@@ -330,7 +384,10 @@ DAYS_DATA = [
                 "setup": "Sit back firmly into sled. Place feet at the VERY TOP EDGE of the platform, WIDE stance (outside shoulder-width), toes flared 20°–30° outward.",
                 "form": "Lower sled until knees reach 90°. Drive forcefully through HEELS to return sled up without locking knees. Zero lower back strain.",
                 "mistakes": "Driving through toes or letting knees collapse inward. Keep knees tracking over pinky toes and drive hard through heels!",
-                "progression": "Hit 12, 12, 12 reps -> add +5 kg to +10 kg to sled."
+                "progression": "Hit 12, 12, 12 reps -> add +5 kg to +10 kg to sled.",
+                "video_url": "https://www.youtube.com/watch?v=M_xoJ0iRLFc",
+                "video_creator": "Physique Development",
+                "video_title": "How to LEG PRESS for Glutes | Improve Your Technique & Grow More Muscle"
             },
             {
                 "num": 3,
@@ -343,7 +400,10 @@ DAYS_DATA = [
                 "setup": "Lie face down with roller pad against lower calves/Achilles tendon. Grasp machine handles.",
                 "form": "GLUE HIPS FIRMLY INTO THE PAD. Curl heels directly toward glutes. Squeeze hamstrings hard for 1s at top, lower slowly over 2–3s.",
                 "mistakes": "Allowing hips to rise up off bench to cheat the weight (strains lower back). Hips must stay glued flat!",
-                "progression": "Hit 12, 12, 12 reps -> drop pin 1 plate (+2.5 kg)."
+                "progression": "Hit 12, 12, 12 reps -> drop pin 1 plate (+2.5 kg).",
+                "video_url": "https://www.youtube.com/watch?v=1Tq3QdYUuHs",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "How To: Prone Leg Curl (Cybex - Hips Glued to Pad)"
             },
             {
                 "num": 4,
@@ -356,7 +416,10 @@ DAYS_DATA = [
                 "setup": "Sit on bench, balls of feet elevated on a 3-inch block. Place heavy barbell or pair of heavy dumbbells across knees with padding.",
                 "form": "Lower heels into full deficit stretch. Hold for 1 second. Drive up onto big toes and hold peak contraction for 1 second at top.",
                 "mistakes": "Doing shallow bounces with light weight. The soleus thrives under heavy, deliberate, full-stretch repetitions.",
-                "progression": "Hit 15, 15, 15 reps -> add +2.5 kg onto knees."
+                "progression": "Hit 15, 15, 15 reps -> add +2.5 kg onto knees.",
+                "video_url": "https://www.youtube.com/watch?v=fFWpWJy8ybU",
+                "video_creator": "Live Lean TV",
+                "video_title": "How To: Dumbbell Seated Calf Raise (90-Degree Knee Soleus Isolation)"
             },
             {
                 "num": 5,
@@ -369,7 +432,10 @@ DAYS_DATA = [
                 "setup": "Stand tall holding smooth bumper plates pinched between fingers and thumb, or holding a heavy barbell with palms forward.",
                 "form": "Stand tall, shoulders rolled back, core braced. Hold plates/barbell isometrically for 45–60 seconds without letting grip slip.",
                 "mistakes": "Using lifting straps or letting posture slump forward. Maintain proud chest and iron pinch.",
-                "progression": "When you comfortably reach 60 seconds on all 3 sets, increase plate weight."
+                "progression": "When you comfortably reach 60 seconds on all 3 sets, increase plate weight.",
+                "video_url": "https://www.youtube.com/watch?v=LARw21BBiDk",
+                "video_creator": "FIT.nl",
+                "video_title": "Plate Pinch | Proper Form Tutorial for Grip Strength"
             }
         ]
     },
@@ -395,7 +461,10 @@ DAYS_DATA = [
                 "setup": "Seat positioned so handles align with upper chest collarbones. Plant feet flat.",
                 "form": "Press diagonally upward and forward. Squeeze upper pectorals hard at peak extension, lower with a 2-second controlled tempo.",
                 "mistakes": "Letting elbows flare excessively or lifting shoulders off pad. Keep upper back pinned flat.",
-                "progression": "Hit 10, 10, 10 reps -> increase machine weight by +2.5 kg."
+                "progression": "Hit 10, 10, 10 reps -> increase machine weight by +2.5 kg.",
+                "video_url": "https://www.youtube.com/watch?v=LiDArz1R2NU",
+                "video_creator": "FIT.nl",
+                "video_title": "Incline Machine Chest Press | Proper Form Tutorial for Upper Chest"
             },
             {
                 "num": 2,
@@ -408,7 +477,10 @@ DAYS_DATA = [
                 "setup": "Sit on flat bench, slight 15° forward lean. Dumbbells at sides.",
                 "form": "Raise in scapular plane (30° forward). On set 4: complete 12–15 reps, immediately drop dumbbells, grab 30% lighter pair with zero rest and pump out 8–10 more reps!",
                 "mistakes": "Swinging torso during the drop-set. Stay strictly seated and let side deltoids do 100% of the work.",
-                "progression": "Increase base dumbbell weight once the first 3 sets reach 15 clean reps."
+                "progression": "Increase base dumbbell weight once the first 3 sets reach 15 clean reps.",
+                "video_url": "https://www.youtube.com/watch?v=4hTUCDUQaNA",
+                "video_creator": "Renaissance Periodization",
+                "video_title": "The Only Dumbbell Lateral Raise Guide You Need (For Side Delt Growth)"
             },
             {
                 "num": 3,
@@ -421,7 +493,10 @@ DAYS_DATA = [
                 "setup": "Face chest pad, handles at eye level, soft elbow bend.",
                 "form": "Sweep arms outward in wide expanding semi-circle. Squeeze back of shoulders for 1 second, control return.",
                 "mistakes": "Yanking with back momentum or shrugging traps. Maintain slow, smooth tempo.",
-                "progression": "Hit 15, 15, 15 reps -> increase resistance by +2.5 kg."
+                "progression": "Hit 15, 15, 15 reps -> increase resistance by +2.5 kg.",
+                "video_url": "https://www.youtube.com/watch?v=6yMdhi2DVao",
+                "video_creator": "Mind Pump TV",
+                "video_title": "How To Properly Use The Rear Delt Fly Machine (+ BONUS TIP)"
             },
             {
                 "num": 4,
@@ -434,7 +509,10 @@ DAYS_DATA = [
                 "setup": "Lie on bench. Grip bar shoulder-width apart (hands ~12–14 inches apart). Do not grip too narrow!",
                 "form": "Tuck elbows close to ribs (~30° angle). Lower bar to lower sternum under control. Press up explosively and lock out triceps hard.",
                 "mistakes": "Placing hands touching each other (causes severe wrist and elbow strain). Hands must be shoulder-width apart!",
-                "progression": "Hit 12, 12, 12 reps -> add +2.5 kg to barbell."
+                "progression": "Hit 12, 12, 12 reps -> add +2.5 kg to barbell.",
+                "video_url": "https://www.youtube.com/watch?v=UYJsFzqdgK4",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "HOW TO: Close-Grip Bench Press (TRICEPS BUILDER) || PERFECT FORM"
             },
             {
                 "num": 5,
@@ -447,7 +525,10 @@ DAYS_DATA = [
                 "setup": "Attach straight or EZ bar to low pulley. Stand tall 1 step back from cable tower.",
                 "form": "Pin elbows to sides. Curl bar upward toward chin. Squeeze biceps hard at peak contraction for 1 second. Lower under 2s control.",
                 "mistakes": "Rocking torso or letting elbows drift forward to cheat the curl. Pin elbows tight against ribs.",
-                "progression": "Hit 12, 12, 12 reps -> drop pin 1 plate down."
+                "progression": "Hit 12, 12, 12 reps -> drop pin 1 plate down.",
+                "video_url": "https://www.youtube.com/watch?v=d7friQusjF8",
+                "video_creator": "Team Evolve",
+                "video_title": "Standing Straight Bar Cable Bicep Curls (Tutorial + Tips)"
             },
             {
                 "num": 6,
@@ -460,7 +541,10 @@ DAYS_DATA = [
                 "setup": "Kneel next to flat bench with forearms resting flat across pad, wrists hanging just over the edge. Palms facing up.",
                 "form": "Allow barbell to roll gently into fingers for deep forearm stretch. Curl fingers and wrists up toward ceiling. Hold peak flex for 1s.",
                 "mistakes": "Lifting forearms off bench during curl. Keep forearms pinned flat to isolate the wrist flexors.",
-                "progression": "Hit 20, 20, 20 reps -> increase bar weight by +1.25 kg to +2.5 kg."
+                "progression": "Hit 20, 20, 20 reps -> increase bar weight by +1.25 kg to +2.5 kg.",
+                "video_url": "https://www.youtube.com/watch?v=qMtmHwaCmYI",
+                "video_creator": "Scott Herman Fitness",
+                "video_title": "How To: Seated Wrist Curl (Forearm Flexor Mass)"
             }
         ]
     }
@@ -478,6 +562,9 @@ def generate_html():
                     <div class="gif-container">
                         <img src="{gif_data_uri}" alt="{ex['name']}" loading="lazy" class="exercise-gif">
                         <div class="gif-badge">Move #{ex['num']} • Motion Loop</div>
+                        <a href="{ex.get('video_url', '#')}" target="_blank" rel="noopener noreferrer" class="gif-video-link" title="Click to open verified YouTube form tutorial">
+                            <span class="play-icon">▶</span> Watch Form Video ({ex.get('video_creator', 'YouTube')})
+                        </a>
                     </div>
                     <div class="details-container">
                         <div class="header-row">
@@ -492,6 +579,9 @@ def generate_html():
                             <span class="tag tag-sets">{ex['sets_reps']}</span>
                             <span class="tag tag-rest">{ex['rest']}</span>
                             <span class="tag tag-prog">Double Progression</span>
+                            <a href="{ex.get('video_url', '#')}" target="_blank" rel="noopener noreferrer" class="tag tag-video" title="Watch full video tutorial">
+                                ▶ Video Tutorial ({ex.get('video_creator', 'YouTube')}) ↗
+                            </a>
                         </div>
 
                         <div class="info-blocks">
@@ -508,6 +598,17 @@ def generate_html():
                             <div class="info-item">
                                 <div class="info-label"><span class="icon">💡</span> Form Cues & Execution</div>
                                 <div class="info-desc">{ex['form']}</div>
+                            </div>
+
+                            <div class="info-item video-item">
+                                <div class="info-label text-video"><span class="icon">🎥</span> Verified Tutorial Video & Biomechanics</div>
+                                <div class="info-desc">
+                                    <a href="{ex.get('video_url', '#')}" target="_blank" rel="noopener noreferrer" class="video-anchor">
+                                        <span class="video-play-badge">▶ PLAY TUTORIAL</span>
+                                        <span class="video-anchor-title">{ex.get('video_title', ex['name'])}</span>
+                                        <span class="video-channel-badge">by {ex.get('video_creator', 'YouTube')} ↗</span>
+                                    </a>
+                                </div>
                             </div>
 
                             <div class="info-item mistake-item">
@@ -1241,6 +1342,101 @@ def generate_html():
                 border-color: #bae6fd !important;
             }}
         }}
+
+        /* Video Tutorial Buttons & Links */
+        .gif-video-link {{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 6px;
+            margin-top: 10px;
+            width: 100%;
+            padding: 7px 12px;
+            background: linear-gradient(135deg, rgba(239, 68, 68, 0.2) 0%, rgba(220, 38, 38, 0.35) 100%);
+            border: 1px solid rgba(239, 68, 68, 0.5);
+            border-radius: var(--radius-sm);
+            color: #fee2e2;
+            text-decoration: none;
+            font-size: 0.76rem;
+            font-weight: 700;
+            transition: all 0.2s;
+        }}
+
+        .gif-video-link:hover {{
+            background: linear-gradient(135deg, rgba(239, 68, 68, 0.4) 0%, rgba(220, 38, 38, 0.6) 100%);
+            border-color: #f87171;
+            transform: translateY(-1px);
+            box-shadow: 0 4px 12px rgba(239, 68, 68, 0.3);
+            color: #fff;
+        }}
+
+        .tag-video {{
+            background: rgba(239, 68, 68, 0.15) !important;
+            color: #fca5a5 !important;
+            border: 1px solid rgba(239, 68, 68, 0.4) !important;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: all 0.2s;
+        }}
+
+        .tag-video:hover {{
+            background: rgba(239, 68, 68, 0.35) !important;
+            color: #fff !important;
+            border-color: #ef4444 !important;
+            transform: translateY(-1px);
+        }}
+
+        .video-item {{
+            background: rgba(239, 68, 68, 0.05);
+            border: 1px solid rgba(239, 68, 68, 0.25);
+            border-radius: var(--radius-sm);
+            padding: 8px 10px;
+        }}
+
+        .text-video {{
+            color: #f87171 !important;
+        }}
+
+        .video-anchor {{
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none;
+            color: #f1f5f9;
+            flex-wrap: wrap;
+            font-size: 0.82rem;
+            margin-top: 3px;
+            transition: color 0.2s;
+        }}
+
+        .video-anchor:hover {{
+            color: #38bdf8;
+        }}
+
+        .video-play-badge {{
+            background: #dc2626;
+            color: #fff;
+            font-size: 0.66rem;
+            font-weight: 800;
+            padding: 2px 7px;
+            border-radius: 4px;
+            letter-spacing: 0.5px;
+        }}
+
+        .video-anchor-title {{
+            font-weight: 600;
+        }}
+
+        .video-channel-badge {{
+            background: rgba(255, 255, 255, 0.08);
+            color: #94a3b8;
+            font-size: 0.72rem;
+            padding: 2px 7px;
+            border-radius: 4px;
+        }}
+
     </style>
 </head>
 <body>
@@ -1550,20 +1746,29 @@ def generate_html():
             </p>
             <div style="display: flex; flex-direction: column; gap: 10px;">
                 <div style="background: rgba(6, 182, 212, 0.06); border-left: 3px solid var(--accent-cyan); padding: 12px; border-radius: 0 var(--radius-sm) var(--radius-sm) 0;">
-                    <strong style="color: var(--accent-cyan);">1. Stomach Vacuums (Transverse Abdominis Tucking)</strong>
-                    <div style="font-size: 0.8rem; color: #cbd5e1; margin-top: 2px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px;">
+                        <strong style="color: var(--accent-cyan);">1. Stomach Vacuums (Transverse Abdominis Tucking)</strong>
+                        <a href="https://www.youtube.com/watch?v=b5GsE6ZHn_E" target="_blank" rel="noopener noreferrer" class="tag tag-video">▶ Mind Pump TV Tutorial ↗</a>
+                    </div>
+                    <div style="font-size: 0.8rem; color: #cbd5e1; margin-top: 4px;">
                         <strong>4 sets × 20-second isometric holds</strong>. Exhale all air completely, pull belly button back toward spine as hard as possible, and hold breath/vacuum. Trains the inner anatomical corset to suck in lower abdominal protrusion.
                     </div>
                 </div>
                 <div style="background: rgba(16, 185, 129, 0.06); border-left: 3px solid var(--accent-emerald); padding: 12px; border-radius: 0 var(--radius-sm) var(--radius-sm) 0;">
-                    <strong style="color: var(--accent-emerald);">2. Kneeling Hip Flexor Stretch with Posterior Pelvic Tilt</strong>
-                    <div style="font-size: 0.8rem; color: #cbd5e1; margin-top: 2px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px;">
+                        <strong style="color: var(--accent-emerald);">2. Kneeling Hip Flexor Stretch with Posterior Pelvic Tilt</strong>
+                        <a href="https://www.youtube.com/watch?v=gqoPYLUgP48" target="_blank" rel="noopener noreferrer" class="tag tag-video">▶ The Prehab Guys Tutorial ↗</a>
+                    </div>
+                    <div style="font-size: 0.8rem; color: #cbd5e1; margin-top: 4px;">
                         <strong>2 sets × 45–60s per leg</strong>. Kneel on one knee, squeeze the rear glute hard to tuck pelvis backward, and shift forward slightly until front hip flexor (psoas) stretches. Reverses hours of IT desk chair sitting.
                     </div>
                 </div>
                 <div style="background: rgba(245, 158, 11, 0.06); border-left: 3px solid var(--accent-amber); padding: 12px; border-radius: 0 var(--radius-sm) var(--radius-sm) 0;">
-                    <strong style="color: var(--accent-amber);">3. Glute Squeezes & Pelvic Tucks</strong>
-                    <div style="font-size: 0.8rem; color: #cbd5e1; margin-top: 2px;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px;">
+                        <strong style="color: var(--accent-amber);">3. Glute Squeezes & Pelvic Tucks</strong>
+                        <a href="https://www.youtube.com/watch?v=mkbNJKiWNlI" target="_blank" rel="noopener noreferrer" class="tag tag-video">▶ Athlean-X APT Fix Guide ↗</a>
+                    </div>
+                    <div style="font-size: 0.8rem; color: #cbd5e1; margin-top: 4px;">
                         <strong>2 sets × 10 reps (3-second squeeze at top)</strong>. Lie on back or stand tall. Squeeze gluteus maximus to tuck tailbone under, waking up glute motor units before sitting at desk.
                     </div>
                 </div>
@@ -1770,7 +1975,7 @@ def build_docx(docx_path):
 
             p2 = c_info.add_paragraph()
             p2.paragraph_format.space_before = Pt(0)
-            p2.paragraph_format.space_after = Pt(4)
+            p2.paragraph_format.space_after = Pt(2)
             r_v_label = p2.add_run("Prescription: ")
             r_v_label.font.bold = True
             r_v_label.font.size = Pt(9)
@@ -1778,6 +1983,17 @@ def build_docx(docx_path):
             r_v_val.font.bold = True
             r_v_val.font.size = Pt(9)
             r_v_val.font.color.rgb = RGBColor(30, 64, 175)
+
+            p_vid = c_info.add_paragraph()
+            p_vid.paragraph_format.space_before = Pt(0)
+            p_vid.paragraph_format.space_after = Pt(4)
+            r_vid_l = p_vid.add_run("🎥 Video Tutorial: ")
+            r_vid_l.font.bold = True
+            r_vid_l.font.size = Pt(8.5)
+            r_vid_v = p_vid.add_run(f"{ex.get('video_creator', 'YouTube')} - {ex.get('video_url', '')}")
+            r_vid_v.font.size = Pt(8.5)
+            r_vid_v.font.color.rgb = RGBColor(14, 116, 144)
+            r_vid_v.font.underline = True
 
             p3 = c_info.add_paragraph()
             p3.paragraph_format.space_before = Pt(0)
@@ -1874,9 +2090,9 @@ def build_docx(docx_path):
     r_apt.font.color.rgb = RGBColor(15, 23, 42)
 
     apt_items = [
-        "1. Stomach Vacuums: 4 sets × 20s hold (Strengthens transverse abdominis, flattens lower belly protrusion).",
-        "2. Kneeling Hip Flexor Stretch with Posterior Pelvic Tilt: 2 sets × 45–60s per leg (Lengthens tight psoas from WFH chair sitting).",
-        "3. Glute Squeezes & Posterior Pelvic Tilt Tucks: 2 sets × 10 reps (Activates glutes before sitting at IT desk)."
+        "1. Stomach Vacuums: 4 sets × 20s hold (Strengthens transverse abdominis, flattens lower belly protrusion) — Video: https://www.youtube.com/watch?v=b5GsE6ZHn_E",
+        "2. Kneeling Hip Flexor Stretch with Posterior Pelvic Tilt: 2 sets × 45–60s per leg (Lengthens tight psoas from WFH chair sitting) — Video: https://www.youtube.com/watch?v=gqoPYLUgP48",
+        "3. Glute Squeezes & Posterior Pelvic Tilt Tucks: 2 sets × 10 reps (Activates glutes before sitting at IT desk) — Video: https://www.youtube.com/watch?v=mkbNJKiWNlI"
     ]
     for item in apt_items:
         p = doc.add_paragraph(style='List Bullet')
@@ -1892,12 +2108,20 @@ def main():
     docx_out = os.path.join(BASE_DIR, "Master_Transformation_Guide.docx")
     brain_html = os.path.join(BRAIN_DIR, "master_transformation_guide.html")
 
-    print("Step 1: Writing Master_Transformation_Guide.html...")
+    print("Step 1: Writing Master_Transformation_Guide.html and index.html...")
     html_content = generate_html()
     with open(html_out, "w", encoding="utf-8") as f:
         f.write(html_content)
-    with open(brain_html, "w", encoding="utf-8") as f:
+    index_out = os.path.join(BASE_DIR, "index.html")
+    with open(index_out, "w", encoding="utf-8") as f:
         f.write(html_content)
+    if os.path.exists(os.path.dirname(brain_html)):
+        with open(brain_html, "w", encoding="utf-8") as f:
+            f.write(html_content)
+    curr_brain = r"C:\Users\SreeramThangavel\.gemini\antigravity\brain\bc1907da-f8a5-4573-b07f-fc5694e83446\master_transformation_guide.html"
+    if os.path.exists(os.path.dirname(curr_brain)):
+        with open(curr_brain, "w", encoding="utf-8") as f:
+            f.write(html_content)
     print("HTML files written successfully.")
 
     print("Step 2: Compiling PDF via Playwright...")

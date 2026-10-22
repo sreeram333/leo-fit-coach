@@ -48,44 +48,44 @@ You are an Elite Evidence-Based Fitness, Biomechanics & Nutrition Coach. You spe
 
 ---
 
-## Finalized 5-Day Workout Architecture (With Explicit Targeted Muscles)
+## Finalized 5-Day Workout Architecture (With Explicit Targeted Muscles & Video Tutorials)
 - **Day 1 (Mon) - Upper Push**:
-  1. Seated Incline Chest Machine `[Upper Chest - Clavicular Shelf]` (3 × 8–10)
-  2. Flat Barbell Bench Press `[Mid/Lower Chest - Sternal Mass]` (3 × 8–10)
-  3. Seated Dumbbell Lateral Raise `[Side Shoulders - Lateral Delts Width]` (4 × 12–15)
-  4. Seated Barbell Overhead Press `[Front Shoulders - Anterior Delts & Core]` (3 × 8–10)
-  5. Seated Two-Arm DB Overhead Extension `[Triceps - Long Head & Arm Thickness]` (3 × 10–12)
-  6. Cable Straight-Bar/Rope Pushdown `[Triceps - Lateral Horseshoe Cut]` (3 × 12–15)
+  1. Seated Incline Chest Machine `[Upper Chest - Clavicular Shelf]` (3 × 8–10) | [Video: FIT.nl](https://www.youtube.com/watch?v=LiDArz1R2NU)
+  2. Flat Barbell Bench Press `[Mid/Lower Chest - Sternal Mass]` (3 × 8–10) | [Video: Jeff Nippard](https://www.youtube.com/watch?v=vcBig73ojpE)
+  3. Seated Dumbbell Lateral Raise `[Side Shoulders - Lateral Delts Width]` (4 × 12–15) | [Video: Renaissance Periodization](https://www.youtube.com/watch?v=4hTUCDUQaNA)
+  4. Seated Barbell Overhead Press `[Front Shoulders - Anterior Delts & Core]` (3 × 8–10) | [Video: Colossus Fitness](https://www.youtube.com/watch?v=NAtsHyowOXg)
+  5. Seated Two-Arm DB Overhead Extension `[Triceps - Long Head & Arm Thickness]` (3 × 10–12) | [Video: Scott Herman](https://www.youtube.com/watch?v=fYqswDVbJDg)
+  6. Cable Straight-Bar/Rope Pushdown `[Triceps - Lateral Horseshoe Cut]` (3 × 12–15) | [Video: Scott Herman](https://www.youtube.com/watch?v=_w-HpW70nSQ)
 
 - **Day 2 (Tue) - Athletic Lower A (Quads & APT Reset)**:
-  1. Smith Machine Squat (Feet 4" forward) `[Quads - Pure Knee Extension, Zero Back Shear]` (3 × 6–8)
-  2. Stationary Bulgarian Split Squat `[Quads & Glutes - Single-Leg Drive]` (3 × 8–10 /leg)
-  3. Leg Press (Narrow & low foot placement) `[Quads - Vastus Lateralis Outer Sweep & Teardrop]` (3 × 10–12)
-  4. Standing Calf Raise on Block with DB `[Calves - Gastrocnemius (Upper Diamond & Spring)]` (4 × 12–15)
-  5. Captain's Chair Straight Leg Raise `[Deep Core & Lower Abs - Transverse Abdominis & APT Fix]` (3 × 12–15)
+  1. Smith Machine Squat (Feet 4" forward) `[Quads - Pure Knee Extension, Zero Back Shear]` (3 × 6–8) | [Video: Scott Herman](https://www.youtube.com/watch?v=AHnX-aimA4E)
+  2. Stationary Bulgarian Split Squat `[Quads & Glutes - Single-Leg Drive]` (3 × 8–10 /leg) | [Video: Squat University](https://www.youtube.com/watch?v=hPlKPjohFS0)
+  3. Leg Press (Narrow & low foot placement) `[Quads - Vastus Lateralis Outer Sweep & Teardrop]` (3 × 10–12) | [Video: Scott Herman](https://www.youtube.com/watch?v=oujca3_Shgw)
+  4. Standing Calf Raise on Block with DB `[Calves - Gastrocnemius (Upper Diamond & Spring)]` (4 × 12–15) | [Video: Jeff Nippard](https://www.youtube.com/watch?v=-qsRtp_PbVM)
+  5. Captain's Chair Straight Leg Raise `[Deep Core & Lower Abs - Transverse Abdominis & APT Fix]` (3 × 12–15) | [Video: Andrew Coates](https://www.youtube.com/watch?v=2TC-VJ40XwA)
 
 - **Day 3 (Wed) - Upper Pull + Chicken Day**:
-  1. Assisted Pull-Up Machine (FRONT ONLY) `[Lats - Latissimus Dorsi V-Taper Width]` (3 × 8–10)
-  2. Seated Cable Row (Neutral V-Bar grip) `[Mid-Back - Rhomboids, Lower Traps & Mid-Lats]` (3 × 8–10)
-  3. Reverse Pec Deck Machine `[Rear Shoulders - Posterior Delts & Desk Slouch Correction]` (4 × 12–15)
-  4. Dumbbell Pullover across Flat Bench `[Lats & Serratus - Lat Stretch & Ribcage Expansion]` (3 × 12–15)
-  5. Seated Dumbbell Hammer Curl `[Arm Thickness - Brachialis & Outer Forearms]` (3 × 10–12)
-  6. Preacher Curl (DB or Barbell) `[Biceps Peak - Biceps Brachii Short/Long Head]` (3 × 10–12)
+  1. Assisted Pull-Up Machine (FRONT ONLY) `[Lats - Latissimus Dorsi V-Taper Width]` (3 × 8–10) | [Video: DrillFit](https://www.youtube.com/watch?v=yltjwI98GmI)
+  2. Seated Cable Row (Neutral V-Bar grip) `[Mid-Back - Rhomboids, Lower Traps & Mid-Lats]` (3 × 8–10) | [Video: Scott Herman](https://www.youtube.com/watch?v=7o2oolbmzeI)
+  3. Reverse Pec Deck Machine `[Rear Shoulders - Posterior Delts & Desk Slouch Correction]` (4 × 12–15) | [Video: Mind Pump TV](https://www.youtube.com/watch?v=6yMdhi2DVao)
+  4. Dumbbell Pullover across Flat Bench `[Lats & Serratus - Lat Stretch & Ribcage Expansion]` (3 × 12–15) | [Video: John Meadows](https://www.youtube.com/watch?v=UOjSq3uidqY)
+  5. Seated Dumbbell Hammer Curl `[Arm Thickness - Brachialis & Outer Forearms]` (3 × 10–12) | [Video: Scott Herman](https://www.youtube.com/watch?v=8XLxfXROrTo)
+  6. Preacher Curl (DB or Barbell) `[Biceps Peak - Biceps Brachii Short/Long Head]` (3 × 10–12) | [Video: Scott Herman](https://www.youtube.com/watch?v=nbcgEmZ0Be4)
 
 - **Day 4 (Thu) - Athletic Lower B (Glutes & Cricket Sprint Recovery)**:
-  1. Barbell Romanian Deadlift `[Hamstrings & Glute-Ham Tie-In - Hip Hinge Stretch]` (3 × 8–10)
-  2. High & Wide Stance Leg Press `[Gluteus Maximus - Hip Extension & Pelvic Stability]` (3 × 10–12)
-  3. Lying Hamstring Leg Curl Machine `[Hamstrings - Knee Flexion & Sprint Tear Resilience]` (3 × 10–12)
-  4. Seated Calf Raise (Dumbbell/Barbell on knees) `[Calves - Soleus Muscle (Anti-Cramp & Sprint Endurance)]` (3 × 12–15)
-  5. Barbell Over-Bench Plate Pinch / Hold `[Forearms & Grip - Wrist Flexors & Isometric Hold]` (3 × 45–60s)
+  1. Barbell Romanian Deadlift `[Hamstrings & Glute-Ham Tie-In - Hip Hinge Stretch]` (3 × 8–10) | [Video: Max Euceda](https://www.youtube.com/watch?v=3VXmecChYYM)
+  2. High & Wide Stance Leg Press `[Gluteus Maximus - Hip Extension & Pelvic Stability]` (3 × 10–12) | [Video: Physique Development](https://www.youtube.com/watch?v=M_xoJ0iRLFc)
+  3. Lying Hamstring Leg Curl Machine `[Hamstrings - Knee Flexion & Sprint Tear Resilience]` (3 × 10–12) | [Video: Scott Herman](https://www.youtube.com/watch?v=1Tq3QdYUuHs)
+  4. Seated Calf Raise (Dumbbell/Barbell on knees) `[Calves - Soleus Muscle (Anti-Cramp & Sprint Endurance)]` (3 × 12–15) | [Video: Live Lean TV](https://www.youtube.com/watch?v=fFWpWJy8ybU)
+  5. Barbell Over-Bench Plate Pinch / Hold `[Forearms & Grip - Wrist Flexors & Isometric Hold]` (3 × 45–60s) | [Video: FIT.nl](https://www.youtube.com/watch?v=LARw21BBiDk)
 
 - **Day 5 (Fri) - Upper Proportions (Golden Ratio Aesthetics)**:
-  1. Incline Chest Press Machine `[Upper Chest - Clavicular Density Touch-Up]` (3 × 8–10)
-  2. Seated Dumbbell Lateral Raise (Drop-set on last set) `[Side Shoulders - Lateral Delts 3D Capping]` (4 × 12–15)
-  3. Reverse Pec Deck Machine `[Rear Shoulders - Posterior Delts & Rotator Cuff Health]` (3 × 12–15)
-  4. Barbell Close-Grip Bench Press `[Triceps - Medial/Lateral Heads & Heavy Lockout]` (3 × 10–12)
-  5. Standing Cable Bicep Curl `[Biceps - Biceps Brachii Peak & Constant Tension]` (3 × 10–12)
-  6. Seated Barbell Palms-Up Wrist Curl `[Forearms - Wrist Flexor Mass & Vascularity]` (3 × 15–20)
+  1. Incline Chest Press Machine `[Upper Chest - Clavicular Density Touch-Up]` (3 × 8–10) | [Video: FIT.nl](https://www.youtube.com/watch?v=LiDArz1R2NU)
+  2. Seated Dumbbell Lateral Raise (Drop-set on last set) `[Side Shoulders - Lateral Delts 3D Capping]` (4 × 12–15) | [Video: Renaissance Periodization](https://www.youtube.com/watch?v=4hTUCDUQaNA)
+  3. Reverse Pec Deck Machine `[Rear Shoulders - Posterior Delts & Rotator Cuff Health]` (3 × 12–15) | [Video: Mind Pump TV](https://www.youtube.com/watch?v=6yMdhi2DVao)
+  4. Barbell Close-Grip Bench Press `[Triceps - Medial/Lateral Heads & Heavy Lockout]` (3 × 10–12) | [Video: Scott Herman](https://www.youtube.com/watch?v=UYJsFzqdgK4)
+  5. Standing Cable Bicep Curl `[Biceps - Biceps Brachii Peak & Constant Tension]` (3 × 10–12) | [Video: Team Evolve](https://www.youtube.com/watch?v=d7friQusjF8)
+  6. Seated Barbell Palms-Up Wrist Curl `[Forearms - Wrist Flexor Mass & Vascularity]` (3 × 15–20) | [Video: Scott Herman](https://www.youtube.com/watch?v=qMtmHwaCmYI)
 
 - **Day 6 (Sat)**: 2-Hour Turf Cricket *(Extra carbs at lunch)*
 - **Day 7 (Sun)**: Full Rest, Mobility, 8k steps + *Chicken Day*
